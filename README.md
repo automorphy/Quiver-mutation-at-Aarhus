@@ -1,1 +1,1 @@
-This is collaboration in Quiver Mutation at the Aarhus workshop.
+This is collaboration on Quiver Mutation at the Aarhus workshop.
